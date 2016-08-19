@@ -53,4 +53,4 @@ The main class for the creation and the manipulation of a red black tree is the 
 
 
 
-For more information on red black tree see: https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+For more information on red black trees see: https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
